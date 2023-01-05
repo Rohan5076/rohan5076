@@ -11,6 +11,16 @@
 
 - 📫 How to reach me **Rohan5076@gmail.com**
 
+## Things I am passionate about
+
+📈 Machine Learning
+
+🤖 Deep Learning
+
+🧠 Neural Networks- Tensorflow & Keras
+
+👁️ Computer Vision
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohan ambad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan ambad" height="30" width="40" /></a>
