@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MLOps, Recommender System, Advance NLP(Chatbot), PySpark and Databricks.**
+- 🌱 I’m currently learning **MLOps, Recommender System, Advance NLP, PySpark and Databricks.**
 
 - 💬 Ask me about **machine learning,NLP**
 
